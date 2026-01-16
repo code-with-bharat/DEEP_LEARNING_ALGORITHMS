@@ -6,6 +6,7 @@ All deep learning algorithms implemented step by step for learning and practice.
 This repository contains implementations of core and advanced deep learning algorithms.
 Each algorithm is organized in its own folder with clear code, explanations, and examples.
 
+
 ## 📂 Repository Structure
 DEEP_LEARNING_ALGORITHMS/
 ├── Perceptron/
@@ -16,6 +17,8 @@ DEEP_LEARNING_ALGORITHMS/
 ├── Transformers/
 ├── Utilities/
 └── README.md
+
+
 
 
 ## 🧠 Algorithms Covered
