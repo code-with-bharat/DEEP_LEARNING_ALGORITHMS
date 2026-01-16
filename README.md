@@ -19,7 +19,6 @@ DEEP_LEARNING_ALGORITHMS/
 └── README.md
 ...
 
-
 ## 🧠 Algorithms Covered
 - Perceptron
 - Artificial Neural Networks (ANN)
