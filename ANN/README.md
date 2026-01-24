@@ -26,7 +26,7 @@ The following regression models were implemented and evaluated:
 
 ---
 
-## 📐 Evaluation Metric
+## Evaluation Metric
 **Root Mean Squared Error (RMSE)** was used as the evaluation metric.
 
 - RMSE penalizes large errors more heavily
@@ -35,7 +35,7 @@ The following regression models were implemented and evaluated:
 
 ---
 
-## 🤖 Neural Network Configuration
+## Neural Network Configuration
 - Fully connected (Dense) layers
 - ReLU activation for hidden layers
 - Linear activation for output layer
@@ -44,7 +44,7 @@ The following regression models were implemented and evaluated:
 
 ---
 
-## 🔍 Results & Observations
+## Results & Observations
 After experimenting with multiple machine learning models and a neural network, the following observations were made:
 
 - Tree-based and linear models (especially LightGBM) achieved **lower or comparable RMSE** compared to the neural network.
@@ -68,7 +68,7 @@ Based on the experimental results, the following conclusions were drawn:
 
 ---
 
-## 🧪 Key Learning
+## Key Learning
 > Increasing model complexity does not guarantee better performance.  
 > Understanding the data and choosing an appropriate model is more important than using advanced algorithms blindly.
 
@@ -85,7 +85,7 @@ Based on the experimental results, the following conclusions were drawn:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 - Advanced feature engineering
 - Cross-validation for more robust evaluation
 - Exploring alternative loss functions (Huber, MAE)
@@ -93,7 +93,7 @@ Based on the experimental results, the following conclusions were drawn:
 
 ---
 
-## 📁 Output Format
+## Output Format
 Predictions are generated in the following format:
 
 ```text
