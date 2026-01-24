@@ -74,7 +74,7 @@ Based on the experimental results, the following conclusions were drawn:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - NumPy
 - Pandas
